@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104040544088",
+    "project_id": "im-hungry-app-8f312",
+    "storage_bucket": "im-hungry-app-8f312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104040544088:android:ce79c23e61c623a0f5172d",
+        "android_client_info": {
+          "package_name": "com.dev.imhungryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104040544088-3ndos8u5h8fmjrc64oklkep6kb0mtu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMPM2TUa6pKIJH5n9gpj-tX3ByPSqCo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104040544088-3ndos8u5h8fmjrc64oklkep6kb0mtu66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImHungryApp</string>
+    <string name="im_hungry_app">Im Hungry App</string>
+    <string name="i_m_hungry_app">I\'m Hungry App</string>
+    <string name="explore_yout_dream_food">Explore yout dream food!</string>
+    <string name="explore_your_dream_food">Explore your dream food!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="i_m_hungry_app_r">I\'m Hungry App</string>
+    <string name="register_subtitle">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
